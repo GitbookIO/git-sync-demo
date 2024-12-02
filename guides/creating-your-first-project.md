@@ -1,3 +1,7 @@
+---
+description: test description
+---
+
 # Creating your first project
 
 {% hint style="info" %}
