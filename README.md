@@ -26,8 +26,8 @@
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="guides/creating-your-first-project.md" %}
-[creating-your-first-project.md](guides/creating-your-first-project.md)
+{% content-ref url="guides/creating-your-first-project-ya-lyublyu-russkii.md" %}
+[creating-your-first-project-ya-lyublyu-russkii.md](guides/creating-your-first-project-ya-lyublyu-russkii.md)
 {% endcontent-ref %}
 
 {% content-ref url="guides/creating-your-first-task.md" %}
