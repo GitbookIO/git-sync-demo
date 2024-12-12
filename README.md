@@ -65,3 +65,10 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 {% hint style="info" %}
 **Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
 {% endhint %}
+
+### OpenAPI Documentation
+
+{% swagger src="./openapi.yaml" path="/pet" method="post" %} POST /pet {% endswagger %}
+
+{% swagger src="./openapi.yaml" path="/pet" method="put" %} POST /pet {% endswagger %}
+
