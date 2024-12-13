@@ -736,7 +736,7 @@ components:
           example: 10
         name:
           type: string
-          example: doggie
+          example: doggo
         category:
           $ref: '#/components/schemas/Category'
         photoUrls:
